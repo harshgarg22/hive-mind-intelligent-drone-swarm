@@ -1,4 +1,4 @@
 *.pt 
 env/
-assets/1a/
-assets/1b/
+assets/1a/*.bmp
+assets/1b/*.bmp
